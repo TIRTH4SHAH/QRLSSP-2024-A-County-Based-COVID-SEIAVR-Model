@@ -19,4 +19,6 @@ Tirthkumar Shah <tshah34@asu.edu>
 Paula GONZALEZ PARRA <pagonzal@asu.edu>
 Licence: QRLSSP 2024
 
-<img src="vac.png" width="128"/>
+<img src="vac.png" width="1000"/>
+<img src="cases.png" width="1000"/>
+<img src="deaths.png" width="1000"/>
