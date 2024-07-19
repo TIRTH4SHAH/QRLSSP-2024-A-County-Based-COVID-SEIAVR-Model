@@ -18,3 +18,5 @@ Carlos Enrique Bustamante Orellana <cbustam3@asu.edu>,
 Tirthkumar Shah <tshah34@asu.edu>
 Paula GONZALEZ PARRA <pagonzal@asu.edu>
 Licence: QRLSSP 2024
+
+<img src="vac.png" width="128"/>
