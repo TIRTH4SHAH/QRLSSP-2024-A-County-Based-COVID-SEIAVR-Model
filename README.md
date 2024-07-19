@@ -23,3 +23,6 @@ Licence: QRLSSP 2024
 <img src="vac.png" width="1000"/>
 <img src="cases.png" width="1000"/>
 <img src="deaths.png" width="1000"/>
+
+
+Copyright: QRLSSP 2024, Arizona State University
